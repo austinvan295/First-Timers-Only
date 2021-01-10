@@ -1,5 +1,5 @@
 # Contributing
-![Untitled design (2)](https://user-images.githubusercontent.com/63253596/104104819-0b0abd00-5270-11eb-8ad2-25f87edff358.png)
+![Untitled design (3)](https://user-images.githubusercontent.com/63253596/104133980-9bb6cb00-534c-11eb-9662-e3ed6ff87e20.png)
 
 We want to make contributing to this project as easy and transparent as possible, whether it's:
 * Reporting a bug
