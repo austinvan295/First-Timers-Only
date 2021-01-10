@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/63253596/104133562-f3076c00-5349-11eb-9f7c-fd63bd372112.png" width="300" height="200">
+![WELCOME](https://user-images.githubusercontent.com/63253596/104133863-d53b0680-534b-11eb-889e-d4192badc5b1.png)
 
 ## This Repository is intended for beginners who are looking to contribute or get started with Open Source Projects. 
 
