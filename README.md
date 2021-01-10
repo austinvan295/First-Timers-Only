@@ -10,7 +10,7 @@ Contributing to open source projects tends to be a little complex and nerve-wrac
 
 To start contributing please look at the contributing.md to see what format to use and how you can make your firrst contribution today! Once you start contributing more to this project the more you will learn and in no time you will be contributing to other open source projects like a pro. 
 ## Requirements
-
+Please make a seperate repository and do **NOT** commit to the master branch directly. always make sure to do a pull request to keep things organized
  * Troubleshooting
  * FAQ
  * Maintainers
