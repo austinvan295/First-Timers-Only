@@ -1,3 +1,5 @@
+![CODE OF CONDUCT](https://user-images.githubusercontent.com/63253596/104145354-40a4c880-538c-11eb-89dd-420e10d38b28.png)
+
 # Contributor Covenant Code of Conduct
 ## Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
