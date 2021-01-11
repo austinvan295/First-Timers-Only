@@ -1,0 +1,1 @@
+Hello my name is Austin and I am currently a Sophomore who is majoring in Computer Science. My goals are to develop software/programs that change the world and to also automate everyday task. I have about under 1 year of programming experience and I have enjoyed it.
