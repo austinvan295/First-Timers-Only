@@ -11,4 +11,3 @@ To start contributing please look at the contributing.md to see what format to u
 Please make a seperate repository and do **NOT** commit to the master branch directly. Always make sure to do a pull request to keep things organized
  * Troubleshooting
  * FAQ
- * Maintainers
