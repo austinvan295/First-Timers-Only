@@ -6,7 +6,7 @@
 ### Introduction
 Contributing to open source projects tends to be a little complex and nerve-wracking at first due to having to know many things such as forking, pull request, issues, how to format questions, and etc. This repository is intended to give newcomers their first open source contribution and to also show how to contribute efficiently.<br>
 
-To start contributing please look at the contributing.md to see what format to use and how you can make your firrst contribution today! Once you start contributing more to this project the more you will learn and in no time you will be contributing to other open source projects like a pro. 
+To start contributing please look at the contributing.md to see what format to use and how you can make your first contribution today! Once you start contributing more to this project the more you will learn and in no time you will be contributing to other open source projects like a pro. 
 ### Requirements
 Please make a seperate repository and do **NOT** commit to the master branch directly. Always make sure to do a pull request to keep things organized
  * Troubleshooting
